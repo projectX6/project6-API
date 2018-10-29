@@ -35,7 +35,7 @@
     "nodemon": "^1.12.1"
   },
   "apidoc": {
-    "title": "PID API",
+    "title": "Project6 API",
     "url": "http://localhost:3000"
   }
 }
